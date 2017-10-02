@@ -4,7 +4,7 @@
 int main(void){
 
   /* 名前の出力 */
-  printf("aaa\n");
+  printf("bbb\n");
 
   return 0;
 }
